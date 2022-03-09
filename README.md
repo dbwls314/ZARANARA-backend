@@ -40,9 +40,11 @@
 ### 영상
 
 [ 회원가입 ]
+
 ![ 회원가입 ](https://user-images.githubusercontent.com/90857450/157393996-88010836-d824-4d09-9138-10d3e255fe09.gif)
 
 [ 로그인 ]
+
 ![ 로그인 ](https://user-images.githubusercontent.com/90857450/157394373-8ca67763-7da1-48d8-8eaa-9c6f772ad66e.gif)
 
 
