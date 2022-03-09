@@ -31,7 +31,7 @@
 
 
 ### 회원가입 영상
-회원가입 <img width="80%" src="file:///Users/youjin/Downloads/ezgif.com-gif-maker%20(1).gif">
+[회원가입]("file:///Users/youjin/Downloads/ezgif.com-gif-maker%20(1).gif")
 
 
 
