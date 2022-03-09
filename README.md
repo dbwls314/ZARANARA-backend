@@ -23,7 +23,9 @@
 
 ## 적용 기술
 - Backend 
-  - Python 3.8, Django 4.0, Mysql 8.0
+  - Python 3.8
+  - Django 4.0 
+  - Mysql 8.0
 
 <br>
 
