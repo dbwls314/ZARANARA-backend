@@ -31,7 +31,10 @@
 
 
 ### 회원가입 영상
-[ 회원가입 ]("file:///Users/youjin/Downloads/ezgif.com-gif-maker%20(1).gif")
+
+[회원가입](Uploading ezgif.com-gif-maker.mov…)
+
+
 
 
 
