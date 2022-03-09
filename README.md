@@ -17,12 +17,9 @@
 
 <br>
 
-## SKillS & Communication Tools
-Backend : Python 3.8, Django 4.0, Mysql 8.0
-
-<br>
-
-Common : Slack,  Github, Trello, Notion
+## 기술 스택 & 협업 툴
+`Backend` : Python 3.8, Django 4.0, Mysql 8.0
+`Common` : Slack,  Github, Trello, Notion
 
 <br>
 
