@@ -3,32 +3,32 @@
 
 </br>
 
-## 개발인원 및 기간
+# 프로젝트 개요
+## 기간 
+- 2021-11-29 ~ 2021-12-10
 
-### 개발기간 : 2021-11-29 ~ 2021-12-10
-
-### 개발인원 : 
-  - Frontend
-    - 김예슬, 정소영, 양주영 
+## 멤버 : 
+- Backend
+  - 고민혁, 김은찬, `이유진`
+- Frontend
+  - 김예슬, 정소영, 양주영 
   
-  - Backend
-    - 고민혁, 김은찬, `이유진`
+  
 
 <br>
 
-## 협업 도구
+## SKillS
+- Python 3.8
+- Django 4.0 
+- Mysql 8.0
+
+<br>
+
+## Communication Tools
 - Slack
 - Github
 - Trello
 - Notion
-
-<br>
-
-## 적용 기술
-- Backend 
-  - Python 3.8
-  - Django 4.0 
-  - Mysql 8.0
 
 <br>
 
@@ -40,7 +40,7 @@
 - 회원가입 [ 담당 기능 ]
 - 로그인 [ 담당 기능 ]
 - 제품 리스트
-- 제품 상세
+- 제품 상세 페이지
 - 장바구니
 - 유저 별로 '좋아요(Like)' 토글 기능 구현
 - CSV 데이터 작성 및 데이터 입력
@@ -59,6 +59,8 @@
 <br>
 
 ## 영상
+[ 시연 영상 ](https://www.youtube.com/watch?v=RvK0mmDLuek)
+
 
 [ 회원가입 ]
 
