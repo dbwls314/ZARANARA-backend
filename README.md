@@ -29,6 +29,11 @@
 - bcrypt 비밀번호 암호화
 - 로그인시 JWT 토큰 발행 및 토큰 검사
 
+
+### 회원가입 영상
+<img width="80%" src="file:///Users/youjin/Downloads/ezgif.com-gif-maker%20(1).gif">
+
+
 ## Reference
 - 이 프로젝트는 [**ZARA HOME**](https://www.zarahome.com/kr/) 사이트를 참조하여 학습목적으로 만들었습니다.
 - 실무 수준의 프로젝트이지만 학습용으로 만들었기 때문에 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제가 될 수 있습니다.
