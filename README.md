@@ -34,9 +34,21 @@
 
 ----------------------------------
 
+## 영상
+
 [ 자라나라 프로젝트 시연 영상 링크 ](https://www.youtube.com/watch?v=RvK0mmDLuek)
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/90857450/157399176-f18527d4-cef3-4b76-add9-0f6a37215fcd.png">
+
+
+[ 회원가입 ]
+
+![ 회원가입 ](https://user-images.githubusercontent.com/90857450/157393996-88010836-d824-4d09-9138-10d3e255fe09.gif)
+
+[ 로그인 ]
+
+![ 로그인 ](https://user-images.githubusercontent.com/90857450/157394373-8ca67763-7da1-48d8-8eaa-9c6f772ad66e.gif)
+
 
 <br>
 
@@ -55,23 +67,6 @@
 - 이메일 유효성 검사 및 비밀번호 조건부여 회원가입
 - bcrypt 비밀번호 암호화
 - 로그인시 JWT 토큰 발행 및 토큰 검사
-
-<br>
-
------------------------------
-
-<br>
-
-## 영상
-
-[ 회원가입 ]
-
-![ 회원가입 ](https://user-images.githubusercontent.com/90857450/157393996-88010836-d824-4d09-9138-10d3e255fe09.gif)
-
-[ 로그인 ]
-
-![ 로그인 ](https://user-images.githubusercontent.com/90857450/157394373-8ca67763-7da1-48d8-8eaa-9c6f772ad66e.gif)
-
 
 <br>
 
