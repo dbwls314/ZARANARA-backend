@@ -16,6 +16,8 @@
 ## 적용 기술
 - Backend : Python, Django, Mysql, Miniconda
 
+----------------------------------
+
 ## 구현 기능
 - 회원가입 [ 담당 기능 ]
 - 로그인 [ 담당 기능 ]
@@ -29,12 +31,18 @@
 - bcrypt 비밀번호 암호화
 - 로그인시 JWT 토큰 발행 및 토큰 검사
 
+-----------------------------
 
-### 회원가입 영상
+### 영상
 
-[ 회원가입 ]![ 회원가입 ](https://user-images.githubusercontent.com/90857450/157393996-88010836-d824-4d09-9138-10d3e255fe09.gif)
+[ 회원가입 ]
+![ 회원가입 ](https://user-images.githubusercontent.com/90857450/157393996-88010836-d824-4d09-9138-10d3e255fe09.gif)
 
-[ 로그인 ]![ 로그인 ](https://user-images.githubusercontent.com/90857450/157394373-8ca67763-7da1-48d8-8eaa-9c6f772ad66e.gif)
+[ 로그인 ]
+![ 로그인 ](https://user-images.githubusercontent.com/90857450/157394373-8ca67763-7da1-48d8-8eaa-9c6f772ad66e.gif)
+
+
+--------------------
 
 
 ## Reference
