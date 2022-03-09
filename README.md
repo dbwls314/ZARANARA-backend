@@ -59,7 +59,7 @@
 <br>
 
 ## 영상
-[ 자라나라 프로젝트 시연 영상 ](https://www.youtube.com/watch?v=RvK0mmDLuek)
+[ 자라나라 프로젝트 시연 영상 링크 ](https://www.youtube.com/watch?v=RvK0mmDLuek)
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/90857450/157399176-f18527d4-cef3-4b76-add9-0f6a37215fcd.png">
 
