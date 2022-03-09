@@ -30,8 +30,7 @@
 - 로그인시 JWT 토큰 발행 및 토큰 검사
 
 
-### 회원가입 영상
-<img width="80%" src="file:///Users/youjin/Downloads/ezgif.com-gif-maker%20(1).gif">
+### 회원가입 영상<img width="80%" src="file:///Users/youjin/Downloads/ezgif.com-gif-maker%20(1).gif">
 
 
 ## Reference
