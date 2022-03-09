@@ -26,14 +26,17 @@
 
 ### User [ 담당 구현 기능 ]
 - 이메일 유효성 검사 및 비밀번호 조건부여 회원가입
+
+
+
 - bcrypt 비밀번호 암호화
 - 로그인시 JWT 토큰 발행 및 토큰 검사
 
 
 ### 회원가입 영상
 
-[회원가입](Uploading ezgif.com-gif-maker.mov…)
 
+[회원가입](https://user-images.githubusercontent.com/90857450/157393683-dc38a166-f6f2-464f-a975-f4ddfd3482a2.mov)
 
 
 
