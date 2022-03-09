@@ -22,7 +22,8 @@
 <br>
 
 ## 적용 기술
-- Backend : Python, Django, Mysql, Miniconda
+- Backend 
+  - Python 3.8, Django 4.0, Mysql 8.0
 
 <br>
 
