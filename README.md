@@ -7,7 +7,7 @@
 ## 기간 
 - 2021-11-29 ~ 2021-12-10
 
-## 멤버 : 
+## 멤버 
 - Backend
   - 고민혁, 김은찬, `이유진`
 - Frontend
@@ -17,18 +17,12 @@
 
 <br>
 
-## SKillS
-- Python 3.8
-- Django 4.0 
-- Mysql 8.0
+## SKillS & Communication Tools
+Backend : Python 3.8, Django 4.0, Mysql 8.0
 
 <br>
 
-## Communication Tools
-- Slack
-- Github
-- Trello
-- Notion
+Common : Slack,  Github, Trello, Notion
 
 <br>
 
